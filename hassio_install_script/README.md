@@ -3,11 +3,11 @@
 
 ### Automated Script
 
-The command below will execute the [`install_hassio.sh`](https://github.com/jxa13/Hassio-Virtual-Machine/blob/master/hassio_install_script/install_hassio.sh) script to install Home Assistant and its dependencies automatically.
+The command below will execute the [`install_hassio.sh`](https://github.com/icanfixitweb/Hassio-Virtual-Machine/blob/master/hassio_install_script/install_hassio.sh) script to install Home Assistant and its dependencies automatically.
 
 ```
 sudo su
-wget -O - https://raw.githubusercontent.com/jxa13/Hassio-Virtual-Machine/master/hassio_install_script/install_hassio.sh | bash
+wget -O - https://raw.githubusercontent.com/icanfixitweb/Hassio-Virtual-Machine/master/hassio_install_script/install_hassio.sh | bash
 ```
 ***
 
