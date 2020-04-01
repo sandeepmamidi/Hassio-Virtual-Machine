@@ -24,4 +24,4 @@ sudo apt-get install docker-ce -y;  # auto-answer Yes
  
 # Replace user path with your user
 echo ""; echo "Step 3, Installing Home Assistant"; echo "";
-curl -sL https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh | bash -s -- -d /home/me/docker/hassio
+curl -sL https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh | bash -s -- -d /home/me/docker/hassio
