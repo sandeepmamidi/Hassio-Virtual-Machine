@@ -1,6 +1,6 @@
 # Pre-Built Home Assistant (Hassio) Virtual Machine
 
-If you want to start right away you can download my pre-built and ready-to-use Ubuntu Virtual Machine with Home Assistant v0.107.7 (with Hassio Supervisor), compatible with VMware and VirtualBox.
+If you want to start right away you can download my pre-built and ready-to-use Ubuntu Virtual Machine with Home Assistant v0.109.6 (with Hassio Supervisor), compatible with VMware and VirtualBox.
 
 This VM is built using the Ubuntu MinimalCD and it has no GUI, to keep size to a minimum.
 
@@ -10,7 +10,7 @@ This VM is built using the Ubuntu MinimalCD and it has no GUI, to keep size to a
 * Ubuntu 18.04
   * username: me
   * password: homeassistant
-* Home Assistant 0.107.7 (Hassio, with Supervisor)
+* Home Assistant 0.109.6 (Hassio, with Supervisor)
   * Hassio URL: http://hassio.local:8123/
   
 ***
