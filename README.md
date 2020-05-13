@@ -1,4 +1,4 @@
-### Install Home Assistant v0.109.6 (with Hassio Supervisor) or use a pre-built Virtual Machine
+### Install Home Assistant (with Hassio Supervisor) or use a pre-built Virtual Machine
 
 Choose one of the following:
 
@@ -13,3 +13,7 @@ Choose one of the following:
 Video instructions on YouTube:
 
 [![Watch the video](http://www.marcolino.net/icanfixit/img/youtube_ubuntu_hassio_vm.png)](https://youtu.be/pfE_6OBCwRs)
+
+***
+
+##### (Tested working as of 15 May 2020 with Home Assistant v0.109.6)
