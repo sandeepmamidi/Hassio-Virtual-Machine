@@ -24,7 +24,7 @@ wget -O - https://raw.githubusercontent.com/icanfixitweb/Hassio-Virtual-Machine/
 * `sudo apt-get install docker-ce -y`
 
 ##### Install Home Assistant
-* `curl -sL https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh | bash -s -- -d /home/me/docker/hassio`
+* `curl -sL https://raw.githubusercontent.com/icanfixitweb/Hassio-Virtual-Machine/master/hassio_install_script/original_script/installer.sh | bash -s -- -d /home/me/docker/hassio`
 
 > This last command will install Home Assistant in `/home/me/docker/hassio`. Replace `me` with your username or replace the whole path with your preferred path. 
 
